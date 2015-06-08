@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">qrscanner</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="result_succeeded">QR code read succefully!</string>
+    <string name="result_failed">Error reading QR code!</string>
+    <string name="result_failed_why">Falhou!</string>
+
+    <string name="qr_prompt">Aproxime a câmera do código QR</string>
+
+</resources>
